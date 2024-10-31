@@ -1,6 +1,6 @@
 <div align="center">
 
-# 哔哩漫游X
+# 哔哩漫游 X
 
 [![CI](https://github.com/BiliRoamingX/BiliRoamingX/workflows/CI/badge.svg)](https://github.com/BiliRoamingX/BiliRoamingX/actions)
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue?logo=telegram)](https://t.me/bb_show)
